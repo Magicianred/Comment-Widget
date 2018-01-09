@@ -1,4 +1,4 @@
-# Advanced Comments Widget
+# Comment Widget
 
 ### Features
 
